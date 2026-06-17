@@ -1,7 +1,15 @@
-# Scripts Information
+# Scripts
 
-All Google Earth Engine, R, ARIMA, SARIMA, and Bayesian analysis codes used in this dissertation are provided in:
+The complete R scripts, Google Earth Engine scripts, and analysis workflow are provided in Appendix A of the dissertation document.
 
-dissertation/Appendix_A_Source_Code.pdf
+Main analyses include:
 
-The code has been included as an appendix of the dissertation document for academic documentation purposes.
+- NDVI Trend Analysis
+- Mann-Kendall Test
+- Sen's Slope Estimation
+- Stationarity Testing (ADF, PP, KPSS)
+- ARIMA and SARIMA Forecasting
+- Bayesian Time-Series Modelling
+- Validation Analysis
+
+Refer to Appendix A in the dissertation documents for full code.
