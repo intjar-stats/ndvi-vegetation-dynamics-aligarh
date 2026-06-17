@@ -1,3 +1,31 @@
+## Key Results and Visualisations
+
+<table>
+<tr>
+<td><img src="figures/GEE_NDVI_Visualisation.PNG" width="300"></td>
+<td><img src="figures/ARIMA_Forecast.png" width="300"></td>
+<td><img src="figures/Monthly_Seasonal_Avg.png" width="300"></td>
+</tr>
+
+<tr>
+<td align="center"><b>GEE NDVI Visualisation</b></td>
+<td align="center"><b>ARIMA Forecast</b></td>
+<td align="center"><b>Monthly Seasonal Average</b></td>
+</tr>
+
+<tr>
+<td><img src="figures/MCMC_Trace.png" width="300"></td>
+<td><img src="figures/Posterior_Density.png" width="300"></td>
+<td><img src="figures/Posterior_Predictive.png" width="300"></td>
+</tr>
+
+<tr>
+<td align="center"><b>MCMC Trace Plot</b></td>
+<td align="center"><b>Posterior Density</b></td>
+<td align="center"><b>Posterior Predictive Check</b></td>
+</tr>
+</table>
+
 # Long-Term NDVI Trend Analysis and Forecasting for Aligarh District, Uttar Pradesh Using MODIS Satellite Data, Google Earth Engine, and Bayesian Time-Series Modelling
 
 ## Overview
