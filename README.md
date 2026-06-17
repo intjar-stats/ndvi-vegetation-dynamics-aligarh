@@ -1,4 +1,4 @@
-## Key Results and Visualisations
+## Visualisations
 
 <table>
 <tr>
