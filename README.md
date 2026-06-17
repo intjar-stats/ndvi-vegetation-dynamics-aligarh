@@ -117,7 +117,7 @@ Aligarh Muslim University, Aligarh
 Research Intern  
 Indian Institute of Technology (IIT) Indore
 
-Working on GIS, Remote Sensing, Land Use Analysis, Spatial Modelling and Environmental Applications.
+Working on GIS, Remote Sensing, Land Use Analysis (LULC), Spatial Modelling and Environmental Applications.
 
 ---
 ## Contact
