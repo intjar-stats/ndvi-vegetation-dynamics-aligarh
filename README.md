@@ -112,7 +112,14 @@ Aligarh Muslim University, Aligarh
 🏅 University Gold Medalist (B.A. Hons. Statistics)
 
 ---
+## Related Research Experience
 
+Research Intern  
+Indian Institute of Technology (IIT) Indore
+
+Working on GIS, Remote Sensing, Land Use Analysis, Spatial Modelling and Environmental Applications.
+
+---
 ## Contact
 
 📧 intjar.bstats@gmail.com
