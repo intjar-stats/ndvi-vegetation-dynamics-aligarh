@@ -27,6 +27,11 @@
 </table>
 
 # Long-Term NDVI Trend Analysis and Forecasting for Aligarh District, Uttar Pradesh Using MODIS Satellite Data, Google Earth Engine, and Bayesian Time-Series Modelling
+![MSc Statistics](https://img.shields.io/badge/M.Sc.-Statistics-blue)
+![AMU](https://img.shields.io/badge/University-AMU-green)
+![MODIS NDVI](https://img.shields.io/badge/Data-MODIS_NDVI-orange)
+![R](https://img.shields.io/badge/Analysis-R-blue)
+![GEE](https://img.shields.io/badge/Platform-Google_Earth_Engine_&_QGIS-yellow)
 
 ## Overview
 
@@ -191,9 +196,9 @@ ndvi-vegetation-dynamics-aligarh/
 
 ## Citation
 
-If you use this repository or methodology in academic work, please cite:
+If you use this repository, dataset, or analysis workflow in your research, please cite:
 
-**Md Intjar (2026). Long-Term NDVI Trend Analysis and Forecasting for Aligarh District, Uttar Pradesh Using MODIS Satellite Data, Google Earth Engine, and Bayesian Time-Series Modelling. M.Sc. Statistics Dissertation, Aligarh Muslim University.**
+Intjar, M. (2026). Long-Term NDVI Trend Analysis and Forecasting for Aligarh District, Uttar Pradesh Using MODIS Satellite Data, Google Earth Engine, and Bayesian Time-Series Modelling. M.Sc. Statistics Dissertation, Department of Statistics and Operations Research, Aligarh Muslim University, India.
 
 ## Contact
 
